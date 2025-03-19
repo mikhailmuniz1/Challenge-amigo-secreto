@@ -39,7 +39,7 @@ Este é um simples jogo de **Amigo Secreto** desenvolvido com **HTML, CSS e Java
 ## 📂 Estrutura do Projeto
 
 📁 amigo-secreto 
-│── 📄 index.html # Estrutura HTML da página 
-│── 📄 style.css # Estilização da interface
-│── 📄 app.js # Código JavaScript do jogo 
-│── 📄 README.md # Documentação do projeto
+/n│── 📄 index.html # Estrutura HTML da página 
+/n│── 📄 style.css # Estilização da interface
+/n│── 📄 app.js # Código JavaScript do jogo 
+/n│── 📄 README.md # Documentação do projeto
