@@ -18,4 +18,28 @@ Este é um simples jogo de **Amigo Secreto** desenvolvido com **HTML, CSS e Java
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML** → Estrutura da página  
-- **CSS** → Estilização (não incluído neste re
+- **CSS** → Estilização 
+- **JavaScript** → Lógica do jogo  
+
+---
+
+## 🎮 Como Jogar
+
+1️⃣ Digite um nome no campo de entrada e clique em **Adicionar**  
+2️⃣ Continue adicionando participantes  
+3️⃣ Clique em **Sortear Amigo** para escolher um nome aleatório  
+4️⃣ O nome sorteado será exibido na tela  
+
+⚠️ **Importante:**  
+- O nome **não pode conter números ou caracteres especiais**  
+- Você precisa adicionar **pelo menos dois nomes** antes de sortear  
+
+---
+
+## 📂 Estrutura do Projeto
+
+📁 amigo-secreto 
+│── 📄 index.html # Estrutura HTML da página 
+│── 📄 style.css # Estilização da interface
+│── 📄 app.js # Código JavaScript do jogo 
+│── 📄 README.md # Documentação do projeto
